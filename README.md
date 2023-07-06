@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Githhub](https://github.com/Adel-Harrat/FM-Results-summary-component)
-- Live Site URL: [Vercel](about:blank)
+- Live Site URL: [Vercel](https://fm-results-summary-component-jet.vercel.app/)
 
 ## My process
 
