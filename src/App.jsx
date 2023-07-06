@@ -72,7 +72,7 @@ function App() {
                 key={item.id}
                 className={`${item.bgColor} flex items-center justify-between space-x-3 rounded-lg p-3`}
               >
-                <img src={item.icon} />
+                <img src={item.icon} alt={item.title} />
                 <p className={`${item.color} flex-1`}>{item.title}</p>
 
                 <p className="text-neutral-500 text-sm">
